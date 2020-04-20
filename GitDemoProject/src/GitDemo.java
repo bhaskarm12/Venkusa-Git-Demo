@@ -9,6 +9,7 @@ public class GitDemo {
 		int test;
 		test=10;
 		System.out.println("Test value is "+test);
+		String abc="21213";
 
 	}
 
